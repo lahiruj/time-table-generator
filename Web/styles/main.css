@@ -1,0 +1,82 @@
+/* CSS Document */
+
+body { font-family: Verdana, Geneva, Arial, sans-serif;
+       font-size: small; 
+       background: none repeat scroll 0 0 #ffffff;/*8CD6F1;*/
+	   margin: 0px;
+	   text-decoration:none;
+}
+#header {    background-color: #acd373;/*#c0bcdd*/
+	          -moz-border-radius: 0px 0px 10px 10px;
+	          border-radius: 0px 0px 10px 10px;
+	          padding: 10px;
+			  margin-left: 20px;
+              margin-right: auto;
+}
+#main_content { -moz-border-radius: 10px 10px 0px 0px;
+	            border-radius: 10px 10px 0px 0px;
+				padding: 0px;
+				margin: 10px 0px 0px 0px;
+				width: 950px;
+                margin-left: auto;
+                margin-right: auto;
+				clear:both;
+				
+}
+h2 { padding-left: 200px;
+}
+#time{ border:#CCC thin solid;
+}
+th { background-color:#ebebeb;
+}
+td { margin-left: auto;
+           margin-right: auto;
+	}
+#log {          -moz-border-radius: 10px;
+	            border-radius: 10px;
+				margin: 10px 0px 0px 0px;
+				padding: 5px;
+				border:#CCC thin solid;
+				width: 500px;
+				margin-left: auto;
+                margin-right: auto;
+				margin-bottom: auto;
+	}
+#sign_in { margin-left: auto;
+           margin-right: auto;
+		   text-decoration:none;
+		   padding: 5px;
+		   color: #ebebeb;
+}
+#admin_panel { -moz-border-radius: 10px 10px 10px 10px;
+	  border-radius: 10px 10px 10px 10px; 
+	  width:300px;
+	  height:150px;
+	  padding-top:10px;
+	  padding-bottom:10px;
+	  padding-left:20px;
+	  border: thin solid #ccc;
+	  position:relative;
+	  float: left;
+}
+#tab{ -moz-border-radius: 10px 10px 10px 10px;
+	  border-radius: 10px 10px 10px 10px; 
+	  width:300px;
+	  height:150px;
+	  padding-top:10px;
+	  padding-bottom:10px;
+	  padding-left:20px;
+	  border: thin solid #ccc;
+	  float: right;
+	  
+	}
+#table { margin-left: auto;
+                margin-right: auto;
+}
+
+#footer {       width: 800px;
+                margin-left: auto;
+                margin-right: auto;
+				padding-left: 270px;
+				clear:both;
+}
