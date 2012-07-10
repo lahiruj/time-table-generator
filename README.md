@@ -1,5 +1,5 @@
 #Introduction-
->This is the mini project that I have done in my 3rd year. Its intended to generate time tables for our department. I have developed web interface to insert and retrieve information they are done using PHP. And the Algorithm was written in Java. Used netbeans for the java development and Dreamweaver for PHP and CSS. Did not used any ones GA. I tried to implement one of my own.
+>This is the mini project that I have done in my 3rd year. Its intended to generate time tables for our department. I have developed web interface to insert and retrieve information they are done using PHP. And the Algorithm was written in Java. Genetic Algorithm has been used for the scheduling/contesting process.
 
 #Deployment
 >Just deploy like any other web project. All files except .sql file should go to the context root. .sql should imported then(tt_gen). sometimes db connection properties should configured accoriding to.
